@@ -1,1 +1,2 @@
 # Informatyka
+Łukasz Zybajło
