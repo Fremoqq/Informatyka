@@ -23,3 +23,5 @@ int main(){
 	silnia = CalculateFactorial(liczba);
 	DisplayResult(liczba, silnia);
 }
+ 
+ return 0;
